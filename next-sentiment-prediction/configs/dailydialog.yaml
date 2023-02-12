@@ -1,0 +1,60 @@
+# ------------------------  PyTorch Lightning Configurations --------------------------------------
+seed: 12                                  # Training seed set everywhere
+verbose: False                            # Verbosity level
+experiment_name: AS_nsp_roberta-large_concat4_CONTEXT2_linear #ROBERTA-BASE_concat4_context4_linear # Name of the experiment
+
+# ----------------------------- Early Stopping ----------------------------------------------------
+monitor: macro-f1                          # Metric to monitor during training
+min_delta: 0.0                            # Sensitivity to the metric.
+patience: 10                               # Number of epochs without improvement before stopping training    
+metric_mode: max                          # 'min' or 'max' depending if we wish to maximize or minimize the metric
+
+# ----------------------------- Model Checkpoint --------------------------------------------------
+save_top_k: 1                             # How many checkpoints we want to save.
+save_weights_only: True                   # Saves the model weights only
+
+# ----------------------------- Lightning Trainer --------------------------------------------------
+gradient_clip_val: 1.0                    # Clips gradients when the norm value exceeds 1.0
+gpus: 1                                   # Number of GPUs to use. (1 is recommended)
+deterministic: True                       # if true enables cudnn.deterministic. Might make your system slower, but ensures reproducibility.
+overfit_batches: 0.0                      # DEGUB: Uses this much data of the training set. If nonzero, will use the same training set for validation and testing.
+accumulate_grad_batches: 16                # Gradient accumulation steps
+min_epochs: 1                             # Min number of epochs
+max_epochs: 40                            # Max number of epochs
+# limit_train_batches: 0.4                # To train with a lower percentage of the training data you can use this flag
+# limit_val_batches: 500                  # Same as the previous flag but for validation. 
+val_check_interval: 0.25                   # How often within one training epoch to check the validation set. Can specify as float or int.
+# precision: 16                           # Train with 16 bit precision
+# profiler: True                          # To profile individual steps during training and assist in identifying bottlenecks.
+# resume_from_checkpoint: checkpoint.ckpt # To resume training from a specific checkpoint pass in the path here.
+log_every_n_steps: 250
+
+# --------------------------------- Dataset -------------------------------------------------------
+pretrained_model: roberta-large           # to run MiniBERT set this flag to: google/bert_uncased_L-2_H-128_A-2
+dataset_path: ../data/dailydialog         # Options: data/ekman/ or data/goemotions/
+dataset: dailydialog                      # Options: emotion-lines, emotion-push, goemotions, dailydialog
+labels: ekman_dd                          # Options: ekman, goemotions, ekman_nn, ekman_dd
+batch_size: 2                             # Batch size used during training.
+context: True                             # Whether or not to use context
+context_turns: 2                          # Number of sentences to consider as context
+augment_dataset: False                    # Whether or not to augment dataset for balancing purposes
+undersample: False                        # Whether or not to undersample dataset for balancing purposes
+
+# -------------------------------- Transformer Fine-tuning -----------------------------------------------
+pooling: concat                           # We have several pooling strategies available: [avg, max, cls, cls+avg, concat]
+nr_layers_pooling: 4                      # Number of layers to use in pooling
+nr_frozen_epochs: 1                       # Number of epochs where the encoder model is frozen (can also be a float between 0 and 1).
+encoder_learning_rate: 5.0e-6            # Learning rate to be used for the encoder parameters.
+learning_rate: 1.0e-3                    # Learning rate to be used on the classification head.
+layerwise_decay: 0.95                    # Learning rate dacay for the encoder layers.
+dropout_prob: 0.4
+
+# -------------------------------- Classification Setup ----------------------------------------------------
+classif_setup: linear                    # Classification head to be used. Options: linear, linear + relu + linear
+
+# -------------------------------- Retrieval Augmentation -----------------------------------------------
+retrieval_augmentation: False             # Whether or not to do retrieval augmentation
+init_sentiment_embeddings: False          # Whether or not to init the retrieval augmentation
+sentiment_embeddings_size: 1024          # Sentiment embeddings size
+sentiment_lambda: False
+sentiment_representation: concat         # How sentiments are represented. Options: sum, concat

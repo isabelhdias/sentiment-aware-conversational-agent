@@ -1,0 +1,8 @@
+{"anger": ["I am angry.", "That is so annoying!"], 
+"disgust": ["I am disgusted.", "That is repulsive!"], 
+"fear": ["I am frightened.", "That is scary!"], 
+"joy": ["I am happy.", "That is delightful!"], 
+"neutral": ["I am ok.", "That is ok."], 
+"non-neutral": ["I am not ok.", "That is not ok."], 
+"sadness": ["I am sad.", "That is so upsetting."], 
+"surprise": ["I am surprised.", "That is so amazing!"]}

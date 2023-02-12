@@ -1,0 +1,12 @@
+A : Hi NAME, how are things going? 0
+B : Everything is great, NAME. How are you? 1
+A : I'm doing really well. 1
+B : NAME, I'm pretty hungry right now. Want to walk over and check out the food table? 0
+A : NAME, do you know who that woman is over there by the window? 0
+B : That is NAME. I heard that she's just moved in with NAME. 0
+A : I thought that he was with NAME. 0
+B : Oh, that relationship is history. NAME hooked up with a guy she met on holiday. 0
+A : I bet that NAME wasn't too happy with that! -1
+B : Actually, he was OK with it. They hadn't been getting along too well. 0
+
+0 0

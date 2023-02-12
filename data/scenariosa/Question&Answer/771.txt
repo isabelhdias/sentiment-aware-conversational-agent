@@ -1,0 +1,10 @@
+A : I'd like to have a phone installed, please. 0
+B : May I have your name and address, please? 0
+A : Sure. My name is NAME. N-A-M-E. My address is 1600 NAME NAME, Apartment 16. 0
+B : May I have your date of birth and your social security number, please? 0
+A : Sure! My date of birth is June 11, 1980. My Social Security Number is 000-00-0000. 0
+B : Thank you very much! The earliest day for connection is this Friday. Is that OK? 1
+A : That's fine! Thanks! 1
+B : Thank you very much, Mr. NAME. Have a nice day! 1
+
+1 1

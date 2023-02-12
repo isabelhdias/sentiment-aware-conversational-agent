@@ -1,0 +1,8 @@
+A : Hi, my name is NAME. You must be NAME, our newest client. 0
+B : Yes, I'm NAME. Nice to meet you, NAME. 0
+A : Nice to meet you too. I'm the head of marketing. 0
+B : I think we will be working closely together. 1
+A : Yes, that's what I hear. Let me know if you have any questions. 1
+B : I will! My first question is Where is the restroom? 1
+
+1 1

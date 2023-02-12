@@ -1,0 +1,6 @@
+A : When are you gonna take your vacation? 0
+B : I was planning to take it at the end of this month. My husband and I haven't had a chance to have a vacation over the past three years. So we are planning to travel to Europe this time. 0
+A : Oh! That sounds great! 1
+B : Yes, it will be a good trip. 1
+
+1 1

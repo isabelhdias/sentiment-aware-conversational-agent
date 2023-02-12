@@ -1,0 +1,12 @@
+A : Hi. My name is NAME. I'm a new employee here. 0
+B : What do you do here, NAME? 0
+A : I'm a sales executive. My boss is NAME. 0
+B : I'm NAME NAME, the General Manager of the company. 0
+A : I know. I was hoping to meet you. 1
+B : Do you like Sales, NAME? 0
+A : Yes, sir. I am the best sales executive in my department. 1
+B : Do you have a business card, NAME? 0
+A : Yes, I do. 0
+B : Let's have a lunch meeting some time. We can discuss your future at this company. 0
+
+1 0

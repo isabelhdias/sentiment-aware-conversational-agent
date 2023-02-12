@@ -1,0 +1,12 @@
+A : That meeting was a waste of time. -1
+B : I agree. We didn't get anything done. -1
+A : NAME was against everything. -1
+B : She wouldn't listen to anyone's ideas. -1
+A : How can the boss handle her negative personality? -1
+B : They're good friends. 1
+A : How can NAME have any friends? She is so pessimistic about everything. -1
+B : I know. All she does is complain all day. -1
+A : Should we talk to NAME? 0
+B : That's not going to do anything. NAME is a naysayer too. -1
+
+-1 -1

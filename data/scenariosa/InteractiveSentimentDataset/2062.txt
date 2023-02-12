@@ -1,0 +1,6 @@
+A : Hi NAME, this is NAME. 0
+B : Hi NAME, this is NAME. 0
+A : Hi NAME, how are you today? 0
+B : I'm fine, thanks. 1
+
+0 1

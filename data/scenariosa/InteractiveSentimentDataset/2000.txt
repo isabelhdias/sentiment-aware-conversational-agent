@@ -1,0 +1,10 @@
+A : I need information about my options for ground transportation. 0
+B : This city has many taxis, shuttles, or buses to transport you to your destination. 0
+A : Is one form of transportation better than another? 0
+B : It depends on where you are traveling. If your destination is close by, you might want to just grab a taxicab. 0
+A : Where are the shuttle pick up points? 0
+B : When you pick up your luggage, walk out of the door and you will see the transportation kiosk. 0
+A : Where are the car rental agencies? 0
+B : You will see the car rental agencies as you walk down the hallway as you exit. 0
+
+0 0

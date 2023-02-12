@@ -1,0 +1,14 @@
+A : I want to get some cable. 1
+B : Do you know what package you want to get? 0
+A : What packages do you have? 0
+B : We have movie channel packages. 0
+A : What else have you got? 0
+B : You can get the sports package. 0
+A : Is there a package with basic and movie channels? 0
+B : We have that package. 0
+A : Let me get that package. 1
+B : Is there anything else you would like? 0
+A : That's everything, but can I add channels later? 0
+B : You can add or get rid of channels another day. 0
+
+0 0

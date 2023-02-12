@@ -1,0 +1,10 @@
+A : Is this Mr. NAME? 0
+B : Yes, this is Mr. NAME. 0
+A : Mr. NAME, this is the Xenon Company. 0
+B : Oh, hello, how are you doing? 0
+A : Mr. NAME, we were very pleased with your interview and would like to offer you the position. 1
+B : Wonderful! I am very happy to be able to join your organization. 1
+A : We are interested in having you begin as soon as possible, perhaps in two weeks? 1
+B : Yes, that would be perfect! 1
+
+0 1

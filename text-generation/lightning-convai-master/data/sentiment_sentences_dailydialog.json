@@ -1,0 +1,9 @@
+{
+    "0": ["I am ok.", "That is ok."], 
+    "1": ["I am angry.", "That is so annoying!"],
+    "2": ["I am disgusted.", "That is repulsive!"],
+    "3": ["I am frightened.", "That is scary!"],
+    "4": ["I am happy.", "That is delightful!"],
+    "5": ["I am sad.", "That is so upsetting."],
+    "6": ["I am surprised.", "That is so amazing!"]
+}

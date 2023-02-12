@@ -1,0 +1,23 @@
+A : Hi NAME. Do you know anyone who wants a dog? 0
+B : What kind of dog? Yours? 0
+A : Yeah. We have to give our dog away. 0
+B : Why? You love NAME. 1
+A : I know. But we just discovered that our son is allergic to dogs. -1
+B : Really? 0
+A : Yeah, he sneezes and gets a rash every time he pets him. -1
+B : That's terrible. -1
+A : When NAME was a baby, we didn't know he was allergic. But now he's crawling around and playing with NAME. His symptoms get really bad. -1
+B : I'm so sorry to hear that. You and NAME have had NAME since he was a puppy. I remember when all three of you moved in next door. -1
+A : I know. We got NAME before our son was born. NAME is so sad. -1
+B : How about your relatives? Are there any family members that could take NAME? Then you can still see him whenever you want. 0
+A : I asked my sister and NAME asked his brothers. But no one is able to take a dog right now. -1
+B : Well, our kids are all grown up and living on their own. NAME and I get lonely sometimes. Would you like us to adopt NAME? -1
+A : Really? You would do that? 0
+B : NAME and I really like NAME. He's housetrained and well-behaved. He rarely barks too. 1
+A : Don't you need to talk to NAME first! 1
+B : Oh, he'll say yes. He's been talking about getting a dog lately. He'll be happy it's NAME. 1
+A : Thank you so much! 1
+B : You can come see him anytime. 1
+A : You're the best neighbor anyone could have. 1
+
+1 1

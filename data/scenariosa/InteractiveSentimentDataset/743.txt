@@ -1,0 +1,12 @@
+A : Professor, I will not be here for our next class meeting. -1
+B : Is this absolutely necessary? 0
+A : I tried to work something out, but I really do have to miss one class. -1
+B : Will you be able to make up the work you missed? 0
+A : I'm going to be doing a lot of extra reading. 0
+B : Remember that I will only let you miss one class meeting per semester. -1
+A : Yes, I remember. 0
+B : Could you e-mail me this week as a reminder? 0
+A : Sure, no problem. 1
+B : Make good use of that day off; you'll only have one this semester! -1
+
+0 -1

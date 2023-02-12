@@ -1,0 +1,8 @@
+A : NAME is such a brown-noser! -1
+B : What happened? 0
+A : He follows NAME everywhere. -1
+B : Oh, he always does that! -1
+A : It's so annoying. He says bad things about NAME all the time. -1
+B : I know. But when he sees him, he acts like NAME is the greatest guy in the whole world. -1
+
+-1 -1

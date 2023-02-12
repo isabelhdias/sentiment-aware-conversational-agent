@@ -1,0 +1,14 @@
+A : How are you today? 0
+B : Very well. 1
+A : Do you need help with something? 0
+B : I need to make a transfer. 0
+A : What account would you like to transfer the money from? 0
+B : I want to transfer money from my savings account. 0
+A : Where do you want the money to go to? 0
+B : I want the money to be transferred into my checking account. 0
+A : How much money are you going to transfer today? 0
+B : $200 will be fine. 1
+A : Is that all I can do for you today? 0
+B : That's it for today. 1
+
+0 1

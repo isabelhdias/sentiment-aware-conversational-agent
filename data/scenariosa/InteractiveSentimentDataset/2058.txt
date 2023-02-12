@@ -1,0 +1,6 @@
+A : Good morning, Carmel Creek elementary school. 1
+B : Good morning, my name is NAME NAME. I’m NAME's father. He has a dentist appointment this morning. He will be late for school. Can you let Mrs. NAME know? 0
+A : OK. No problem, Mr. NAME. 1
+B : Thank you. Bye. 1
+
+1 1

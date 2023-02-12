@@ -1,0 +1,12 @@
+A : Hi NAME, how are you? 0
+B : Things are going good, NAME. How about you? 1
+A : Things have been going well for me. 1
+B : That food smells delicious! Let's wander over to the food table and see what's up. 1
+A : NAME, do you know who that woman talking to NAME is? 0
+B : I think that her name is NAME. I think that she and NAME are moving in together. 0
+A : Isn't he with NAME? 0
+B : NAME dumped him. She ran off with a guy she met on vacation. 0
+A : NAME was probably less than thrilled with that! -1
+B : He was kind of relieved. They had been having some problems. 0
+
+0 0

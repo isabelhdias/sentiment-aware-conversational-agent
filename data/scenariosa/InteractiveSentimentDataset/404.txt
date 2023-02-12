@@ -1,0 +1,12 @@
+A : What's going on in NAME's office? 0
+B : NAME is having a meeting with NAME. 0
+A : About what? 0
+B : NAME's constant complaining. -1
+A : Finally! 0
+B : I know. NAME is a tough woman. -1
+A : I wonder what NAME is saying. 0
+B : It doesn't look good. -1
+A : How do you know? 0
+B : NAME is crying. -1
+
+0 -1

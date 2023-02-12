@@ -1,0 +1,7 @@
+A : Hello, May I speak to Mr. NAME? 0
+B : He's out to lunch. Would you like to leave a message? -1
+A : What time do you expect him back? 0
+B : Mr. NAME should be back in half an hour. 0
+A : I'll try back later. 0
+
+0 0

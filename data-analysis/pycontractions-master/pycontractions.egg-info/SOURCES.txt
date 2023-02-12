@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+setup.py
+pycontractions/__init__.py
+pycontractions/contractions.py
+pycontractions.egg-info/PKG-INFO
+pycontractions.egg-info/SOURCES.txt
+pycontractions.egg-info/dependency_links.txt
+pycontractions.egg-info/requires.txt
+pycontractions.egg-info/top_level.txt

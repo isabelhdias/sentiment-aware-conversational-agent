@@ -1,0 +1,8 @@
+A : Guess what I heard about NAME. 0
+B : She's getting a divorce. -1
+A : How did you know that? 0
+B : NAME told me. 0
+A : NAME told me too. 0
+B : NAME is a gossip queen. -1
+
+0 -1

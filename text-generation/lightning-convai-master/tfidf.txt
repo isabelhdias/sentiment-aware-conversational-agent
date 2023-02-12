@@ -1,0 +1,88 @@
+
+
+ --- anger --- 
+Result anger vs. anger: 0.31032336846064223 
+Result disgust vs. anger: 0.24446758303979502 
+Result fear vs. anger: 0.2530919555954897 
+Result joy vs. anger: 0.3526019734820956 
+Result neutral vs. anger: 0.3501546992559675 
+Result non-neutral vs. anger: 0.35039090916660653 
+Result sadness vs. anger: 0.31152681256389303 
+Result surprise vs. anger: 0.2982614808377181 
+
+
+ --- disgust --- 
+Result anger vs. disgust: 0.4224149553018815 
+Result disgust vs. disgust: 0.41721340308250826 
+Result fear vs. disgust: 0.34775123969370353 
+Result joy vs. disgust: 0.4564847893670631 
+Result neutral vs. disgust: 0.5280931854001444 
+Result non-neutral vs. disgust: 0.5305874977979324 
+Result sadness vs. disgust: 0.47699763874809903 
+Result surprise vs. disgust: 0.4452705127105019 
+
+
+ --- fear --- 
+Result anger vs. fear: 0.36963967111999935 
+Result disgust vs. fear: 0.3488780103655186 
+Result fear vs. fear: 0.37353739891538973 
+Result joy vs. fear: 0.4572172093133243 
+Result neutral vs. fear: 0.4468548863029475 
+Result non-neutral vs. fear: 0.4116679448210376 
+Result sadness vs. fear: 0.4280591979732184 
+Result surprise vs. fear: 0.43960919404368265 
+
+
+ --- joy --- 
+Result anger vs. joy: 0.31677212198215676 
+Result disgust vs. joy: 0.2679827937145428 
+Result fear vs. joy: 0.20523453989246518 
+Result joy vs. joy: 0.18017317896154808 
+Result neutral vs. joy: 0.2792716241755449 
+Result non-neutral vs. joy: 0.27445751049703343 
+Result sadness vs. joy: 0.28314925456555695 
+Result surprise vs. joy: 0.27853828247192075 
+
+
+ --- neutral --- 
+Result anger vs. neutral: 0.17640888392548348 
+Result disgust vs. neutral: 0.164176910486937 
+Result fear vs. neutral: 0.16122274675449352 
+Result joy vs. neutral: 0.16619659003443163 
+Result neutral vs. neutral: 0.10930700643345197 
+Result non-neutral vs. neutral: 0.12500150535912913 
+Result sadness vs. neutral: 0.1334568485597533 
+Result surprise vs. neutral: 0.15811134310997557 
+
+
+ --- non-neutral --- 
+Result anger vs. non-neutral: 0.18469032829548812 
+Result disgust vs. non-neutral: 0.1485646118320153 
+Result fear vs. non-neutral: 0.18623123135874817 
+Result joy vs. non-neutral: 0.24689675627541036 
+Result neutral vs. non-neutral: 0.19939279405935686 
+Result non-neutral vs. non-neutral: 0.18519679079445683 
+Result sadness vs. non-neutral: 0.19401199102433947 
+Result surprise vs. non-neutral: 0.18404296802775758 
+
+
+ --- sadness --- 
+Result anger vs. sadness: 0.20844061035631772 
+Result disgust vs. sadness: 0.19206534335353037 
+Result fear vs. sadness: 0.2504958637715321 
+Result joy vs. sadness: 0.2764577351223382 
+Result neutral vs. sadness: 0.26240348427596216 
+Result non-neutral vs. sadness: 0.2376844688444067 
+Result sadness vs. sadness: 0.20899003055950613 
+Result surprise vs. sadness: 0.2178392123953581 
+
+
+ --- surprise --- 
+Result anger vs. surprise: 0.21708537331219924 
+Result disgust vs. surprise: 0.23001518129811924 
+Result fear vs. surprise: 0.3436612153750347 
+Result joy vs. surprise: 0.2854315692187677 
+Result neutral vs. surprise: 0.27955294526544583 
+Result non-neutral vs. surprise: 0.2556934571183668 
+Result sadness vs. surprise: 0.24881132874581965 
+Result surprise vs. surprise: 0.19658008633697793 

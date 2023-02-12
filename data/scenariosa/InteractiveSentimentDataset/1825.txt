@@ -1,0 +1,12 @@
+A : I can't understand why everyone is so mad at NAME. -1
+B : He was rude to NAME. -1
+A : I don't think he was rude. 0
+B : He said mean things to NAME. -1
+A : NAME asked NAME a question. 0
+B : NAME didn't have to be so honest. -1
+A : NAME was just telling the truth. 0
+B : Sometimes the truth is painful. -1
+A : Then you shouldn't ask questions. -1
+B : I can't understand why you are on NAME's side. -1
+
+-1 -1
